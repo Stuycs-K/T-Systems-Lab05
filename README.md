@@ -2,23 +2,23 @@
 
 Please implement the following functions:
 
-`int mystrlen( char *s )`
+1. `int mystrlen( char *s )`
 
-char * mystrcpy( char *dest, char *source ) 
+2. `char * mystrcpy( char *dest, char *source )`
 
-char * mystrncpy( char *dest, char *source, int n)
+3. `char * mystrncpy( char *dest, char *source, int n)`
 
-char * mystrcat( char *dest, char *source ) 
+4. `char * mystrcat( char *dest, char *source )`
 
-char * mystrncat( char *dest, char *source, int n) 
+5. `char * mystrncat( char *dest, char *source, int n)`
 
-int mystrcmp( char *s1, char *s2 )
+6. `int mystrcmp( char *s1, char *s2 )`
 
-char * mystrchr( char *s, char c )
+7. `char * mystrchr( char *s, char c )`
 
-char * mystrstr( char *s1, char * s2 )
+8. `char * mystrstr( char *s1, char * s2 )`
 
-char * mysplit(char *s, char d)
+9. `char * mysplit(char *s, char d)`
 
 note: Your version of strcmp() does not need to return the same exact value as the system version, as long as it returns the same sign.
 
