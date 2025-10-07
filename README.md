@@ -18,10 +18,9 @@ Please implement the following functions:
 
 8. `char * mystrstr( char *s1, char * s2 )`
 
-9. `char * mysplit(char *s, char d)`
+9. `char * mysplit(char *s, char delimeter)`
 
 note: Your version of strcmp() does not need to return the same exact value as the system version, as long as it returns the same sign.
 
-Usage of mysplit():
 
 
